@@ -1,0 +1,7 @@
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\bin\Debug\2212377_Lab01_Bai01.exe.config
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\bin\Debug\2212377_Lab01_Bai01.exe
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\bin\Debug\2212377_Lab01_Bai01.pdb
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\obj\Debug\2212377_Lab01_Bai01.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\obj\Debug\2212377_Lab01_Bai01.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\obj\Debug\2212377_Lab01_Bai01.exe
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai01\obj\Debug\2212377_Lab01_Bai01.pdb

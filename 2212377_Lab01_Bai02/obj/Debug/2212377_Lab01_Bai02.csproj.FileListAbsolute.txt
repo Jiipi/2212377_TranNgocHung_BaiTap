@@ -1,0 +1,20 @@
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\bin\Debug\2212377_Lab01_Bai02.exe.config
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\bin\Debug\2212377_Lab01_Bai02.exe
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\bin\Debug\2212377_Lab01_Bai02.pdb
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\_2212377_Lab01_Bai02.Form1.resources
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\_2212377_Lab01_Bai02.Properties.Resources.resources
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.exe
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.pdb
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\bin\Debug\2212377_Lab01_Bai02.exe.config
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\bin\Debug\2212377_Lab01_Bai02.exe
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\bin\Debug\2212377_Lab01_Bai02.pdb
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\_2212377_Lab01_Bai02.Form1.resources
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\_2212377_Lab01_Bai02.Properties.Resources.resources
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.exe
+C:\Users\CICT\Downloads\New folder\New folder\2212377_Lab01_Bai03\2212377_Lab01_Bai02\obj\Debug\2212377_Lab01_Bai02.pdb

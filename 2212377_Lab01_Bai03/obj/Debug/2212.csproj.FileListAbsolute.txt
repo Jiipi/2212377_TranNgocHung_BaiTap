@@ -1,0 +1,10 @@
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\2212.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\_2212.Form1.resources
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\_2212.Properties.Resources.resources
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\2212.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\2212.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\bin\Debug\2212.exe.config
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\bin\Debug\2212.exe
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\bin\Debug\2212.pdb
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\2212.exe
+C:\Users\CICT\Downloads\New folder\2212377_Lab01_Bai03\2212\obj\Debug\2212.pdb
